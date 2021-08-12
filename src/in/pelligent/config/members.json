@@ -1,0 +1,20 @@
+{
+  "members" : [
+    {
+      "name": "Itachi Uchiha",
+      "photo": "",
+      "village": "Leaf",
+      "clan": "Uchiha",
+      "jutsus": "Genjustsu, Ninjutsu, Taijutsu",
+      "elements": "Fire, Water, Wind, Yin, Yang"
+    },
+    {
+      "name": "Nagato Uzumaki",
+      "photo": "",
+      "village": "Rain",
+      "clan": "Uzumaki",
+      "jutsus": "Genjustsu, Ninjutsu, Taijutsu",
+      "elements": "Fire, Water, Wind, Earth, Lightning, Yang"
+    }
+  ]
+}
