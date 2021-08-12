@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         JSONParser parser = new JSONParser();
         try {
-            Object obj = parser.parse(new FileReader("C:\\Users\\ROHIT SHINDE\\IdeaProjects\\Akatsuki\\src\\in\\pelligent\\config\\members.json"));
+            Object obj = parser.parse(new FileReader("src\\in\\pelligent\\config\\members.json"));
 
             // A JSON object. Key value pairs are unordered. JSONObject supports java.util.Map interface.
             JSONObject jsonObject = (JSONObject) obj;
